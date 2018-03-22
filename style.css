@@ -48,6 +48,7 @@ section {
 	margin-top: 30px;
 	font-size: 28px;
 	color: #804515;
+	text-transform: capitalize;
 }
 .hobbies ul {
 	list-style-position: inside;
