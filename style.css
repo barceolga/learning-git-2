@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Raleway');
+body {
+	margin: 0;
+	background-color: #FFC8AA;
+	font-family: 'Raleway', sans-serif;
+	color: #D4836A;
+}
+header {
+	padding: 60px;
+	background-image: url(https://images.pexels.com/photos/144352/pexels-photo-144352.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+	background-repeat: no-repeat;
+    background-size: 100% 300px;
+    height: 300px;
+}
+header h1 {
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 48px;
+}
+header p {
+	font-size: 24px;
+}
+header h1, header p {
+	text-align: center;
+	color: #552700;
+}
+.container {
+	max-width: 700px;
+	margin: 0 auto;
+	background-color: #FFD1AA;
+	border: 5px solid #552700;
+}
+section {
+	padding: 20px;
+}
+.about h2 {
+	margin-top: 30px;
+	font-size: 28px;
+	color: #552700;
+}
+.about p {
+	padding: 0px 30px;
+	text-align: justify;
+	font-size: 16px;
+	color: #003333;
+}
+.hobbies h2 {
+	margin-top: 30px;
+	font-size: 28px;
+	color: #804515;
+}
+.hobbies ul {
+	list-style-position: inside;
+	list-style-type: square;
+}
+.hobbies li {
+	padding: 0px 30px;
+	font-size: 16px;
+	color: #003333;
+}
+ul#images li {
+	margin: 0 auto;
+	display: inline;
+}
+.images {
+	width: 25%;
+	height: 25%;
+}
+.hobbies p {
+	padding: 0px 30px;
+	text-align: justify;
+	font-size: 16px;
+	color: #003333;
+}
+footer {
+	margin-top: 30px;
+	padding: 30px;
+	height: 100px;
+	background-color: #226666;
+}
+footer p {
+ text-align: center;
+ font-size: 21px;
+ color: #FFD1AA;
+}
+footer a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #552700;
+}
+a:hover {
+	background-color: #6FA798;
+}
+a:active {
+color: #D4836A;
+}
+
+h1 h2 {
+font-family: 'Oswald', sans-serif;
+}
