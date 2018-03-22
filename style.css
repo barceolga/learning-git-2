@@ -91,6 +91,7 @@ footer a {
 }
 a:hover {
 	background-color: #6FA798;
+	color: #fff;
 }
 a:active {
 color: #D4836A;
